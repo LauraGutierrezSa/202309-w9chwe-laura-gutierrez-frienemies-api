@@ -5,83 +5,84 @@
       "name": "Marta Ibarra",
       "Birthday year": 1988,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/1516933963439.webp"
     },
     {
       "id": 2,
       "name": "Jack Black",
       "Birthday year": 1969,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/XVP-oVIs_400x400.webp"
     },
     {
       "id": 3,
       "name": "Kyle Gass",
       "Birthday year": 1960,
       "Is Enemy": true,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/Tenacious-D.webp"
     },
     {
       "id": 4,
       "name": "Tobias Forge",
       "Birthday year": 1981,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/Papa_Emeritus_IV_Mikael_Eriksson_CLOSEUP.webp"
     },
     {
       "id": 5,
       "name": "Ruben Ramirez",
       "Birthday year": 1984,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/maxresdefault.webp"
     },
     {
       "id": 6,
       "name": "Ana Lambea",
       "Birthday year": 1991,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/1532451421218.webp"
     },
     {
       "id": 7,
       "name": "Ramiro Elisei",
       "Birthday year": 1981,
-      "Is Enemy": true
+      "Is Enemy": true,
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/3451730272_bb7430e3b2_n.webp"
     },
     {
       "id": 8,
       "name": "Luis Dudamel",
       "Birthday year": 1985,
       "Is Enemy": true,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/descarga.webp"
     },
     {
       "id": 9,
       "name": "Lorena McPadding",
       "Birthday year": 1989,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/1697704457145.webp"
     },
     {
       "id": 10,
       "name": "Mario Gonzalez",
       "Birthday year": 1981,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/1693508320076.webp"
     },
     {
       "id": 11,
       "name": "Mela Maluenda",
       "Birthday year": 1988,
       "Is Enemy": false,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/unnamed.webp"
     },
     {
       "id": 12,
       "name": "Ben Rae",
       "Birthday year": 1989,
       "Is Enemy": true,
-      "Image Url": ""
+      "Image Url": "https://raw.githubusercontent.com/LauraGutierrezSa/202309-w9chwe-laura-gutierrez-frienemies-api/main/images/1648555431832.webp"
     }
   ]
 }
